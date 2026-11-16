@@ -1,0 +1,6 @@
+{
+  "name": "Kuroko Zero: Basketball Arena & Roblox Studio Kit",
+  "description": "Playable 3D Kuroko's Basketball & Basketball Zero-inspired arena with Akashi Seijuro, Aomine Daiki, and Kuroko Tetsuya, plus complete exportable Roblox Studio Luau scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
